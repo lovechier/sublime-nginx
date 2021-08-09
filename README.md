@@ -9,6 +9,7 @@ Installation
 ------------
 
 Simply [download](https://github.com/brandonwamboldt/sublime-nginx/archive/master.zip) and place in your Packages directory (Preferences > Browse Packages, download to User/).
+将Github下载的扩展解压之后，放置到sublime text的C:\Program Files\Sublime Text\Data\Packages文件夹下：
 
 Usage
 -----
@@ -18,4 +19,4 @@ This package will recognize `*.conf`, `*.conf.erb`, `nginx.conf`, `mime.types`, 
 Screenshots
 -----------
 
-![screenshot](https://github.com/brandonwamboldt/sublime-nginx/blob/master/screenshot.png?raw=true "Screenshot using SpaceGray theme")
+![image](https://user-images.githubusercontent.com/5236022/128682170-f0f23ce0-1fb3-40f6-b560-917c6f4257f1.png)
